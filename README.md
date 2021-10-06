@@ -1,6 +1,6 @@
 - 👋 Hi, I’m linhan from zhejian province of china
-- 👀 I’m interested in c++ and python  
-- 🌱 I’m currently learning cmake
+- 👀 I’m programming with c++ | python | java  
+- 🌱 I’m currently learning blockchian
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me , my contact way: email-linhan1208@outlook.com 
 
