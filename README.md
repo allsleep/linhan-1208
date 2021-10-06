@@ -1,5 +1,5 @@
 - 👋 Hi, I’m linhan from zhejian province of china
-- 👀 I’m interested in c++ and python for ai
+- 👀 I’m interested in c++ and python  
 - 🌱 I’m currently learning cmake
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me , my contact way: email-linhan1208@outlook.com 
